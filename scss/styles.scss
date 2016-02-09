@@ -779,8 +779,11 @@ footer{
 		height:456px !important;
 	}
 
-	.attribute{
-		margin:0 1% 0 12% !important;
+	.bottomLine {
+		.attribute {
+			position: relative;
+			text-align: center;
+		}
 	}
 }
 
@@ -819,15 +822,13 @@ footer{
 	div.showcase{
 		left:0 !important;
 	}
-
 	
-
-	.copyright{
-		font-size:10px;
-	
+	.bottomLine {
+		.copyright{
+			font-size: 10px;
+		}
 		.attribute{
-			margin:0 1% 0 1% !important;
-			font-size:7px;
+			font-size: 10px;
 		}
 	}
 }

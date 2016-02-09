@@ -1061,8 +1061,9 @@ footer div.col6 {
     height: 456px !important;
   }
 
-  .attribute {
-    margin: 0 1% 0 12% !important;
+  .bottomLine .attribute {
+    position: relative;
+    text-align: center;
   }
 }
 @media screen and (max-width: 500px) {
@@ -1097,12 +1098,11 @@ footer div.col6 {
     left: 0 !important;
   }
 
-  .copyright {
+  .bottomLine .copyright {
     font-size: 10px;
   }
-  .copyright .attribute {
-    margin: 0 1% 0 1% !important;
-    font-size: 7px;
+  .bottomLine .attribute {
+    font-size: 10px;
   }
 }
 
