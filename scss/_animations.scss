@@ -1,0 +1,73 @@
+/******* Background *******/
+.blueBG{
+	background:$mainBlue;
+	-moz-animation: bg 18s ease 6s infinite forwards;
+	height:770px;
+}
+
+@-moz-keyframes bg {
+  0% { background: $mainBlue; }
+  33% { background: $green; }
+  66% { background: #000; }
+  100% { background: $mainBlue; }
+}
+
+.blueBG{
+	background:$mainBlue;
+	animation: bg 18s ease 6s infinite forwards;
+	height:770px;
+}
+
+@keyframes bg {
+  0% { background: $mainBlue; }
+  33% { background: $green; }
+  66% { background: #000; }
+  100% { background: $mainBlue; }
+}
+
+
+/****** Soundbar *******/
+@-moz-keyframes sound {
+    0% {
+       opacity: .35;
+        height: 3px; 
+    }
+    100% {
+        opacity: 1;       
+        height: 56px;        
+    }
+}
+
+.bar:nth-child(1){left: 1px; -moz-animation-duration: 474ms;}
+.bar:nth-child(2){left: 9px; -moz-animation-duration: 433ms;}
+.bar:nth-child(3){left: 17px; -moz-animation-duration: 407ms;}
+.bar:nth-child(4){left: 25px; -moz-animation-duration: 458ms;}
+.bar:nth-child(5){left: 33px; -moz-animation-duration: 400ms;}
+.bar:nth-child(6){left: 41px; -moz-animation-duration: 427ms;}
+.bar:nth-child(7){left: 49px; -moz-animation-duration: 441ms;}
+.bar:nth-child(8){left: 57px; -moz-animation-duration: 419ms;}
+.bar:nth-child(9){left: 65px; -moz-animation-duration: 487ms;}
+.bar:nth-child(10){left: 73px; -moz-animation-duration: 642ms;}
+
+
+@keyframes sound {
+    0% {
+       opacity: .35;
+        height: 3px; 
+    }
+    100% {
+        opacity: 1;       
+        height: 56px;        
+    }
+}
+
+.bar:nth-child(1){left: 1px; animation-duration: 474ms;}
+.bar:nth-child(2){left: 9px; animation-duration: 433ms;}
+.bar:nth-child(3){left: 17px; animation-duration: 407ms;}
+.bar:nth-child(4){left: 25px; animation-duration: 458ms;}
+.bar:nth-child(5){left: 33px; animation-duration: 400ms;}
+.bar:nth-child(6){left: 41px; animation-duration: 427ms;}
+.bar:nth-child(7){left: 49px; animation-duration: 441ms;}
+.bar:nth-child(8){left: 57px; animation-duration: 419ms;}
+.bar:nth-child(9){left: 65px; animation-duration: 487ms;}
+.bar:nth-child(10){left: 73px; animation-duration: 642ms;}
