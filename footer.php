@@ -14,8 +14,9 @@
 </div>
 <div class="bottomLine">
 	<p class="copyright">
-	 	&copy; Copyright 2015/All Rights Reserved. <span class="attribute">Powered by<a href="http://daishodesign.com/" target="_blank"> daishodesign.com</a></span>
+		&copy; Copyright <?php echo date("Y"); ?>/All Rights Reserved.
 	</p>
+	<p class="attribute">Powered by<a href="http://daishodesign.com/" target="_blank"> daishodesign.com</a></p>
 </div>
 </body>
 </html>

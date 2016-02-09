@@ -1026,18 +1026,21 @@ footer div.col6 {
   background: #ff9800;
   font-size: 13px;
   color: #263248;
+  position: relative;
 }
 .bottomLine .copyright {
-  text-align: right;
+  text-align: center;
 }
-.bottomLine .copyright .attribute {
-  margin: 0 1% 0 25%;
+.bottomLine .attribute {
+  position: absolute;
+  top: 0;
+  right: 4px;
 }
-.bottomLine .copyright .attribute a {
+.bottomLine .attribute a {
   text-decoration: none;
   color: #263248;
 }
-.bottomLine .copyright .attribute a:hover {
+.bottomLine .attribute a:hover {
   color: #FFF;
   font-weight: 400;
 }

@@ -736,21 +736,24 @@ footer{
 	background:$orange;
 	font-size:13px;
 	color:$mainBlue;
+	position: relative;
 
 	.copyright{
-		text-align:right;
+		text-align: center;
+	}
 
-		.attribute{
-			margin:0 1% 0 25%;
+	.attribute{
+		position: absolute;
+		top: 0;
+		right: 4px;
 
-			a{
-				text-decoration:none;
-				color:$mainBlue;
+		a{
+			text-decoration:none;
+			color:$mainBlue;
 
-				&:hover{
-					color:#FFF;
-					font-weight:400;
-				}
+			&:hover{
+				color:#FFF;
+				font-weight:400;
 			}
 		}
 	}
