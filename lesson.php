@@ -25,17 +25,14 @@
 				<div class="clearFloat"></div>
 			</div>
 			<div class="description col8 col11_m">
-				<p>
-					J’enseigne à toutes âge depuis 2001. Cours de guitare, de clavier/piano, de chant (tous style), théorie musicale et solfège. Cours privé, semi-privé et de groupe disponible selon la demande. Hésitez pas à communiquer avec moi pour plus de détails et pour toutes questions concernant.
-				</p>
-				<p>
-					Je crois que chaque personne peu s’exprimé à travers la musique peu importe leur niveau de connaissances. Le but ultime est de s’épanouir, d’apprendre et d’avoir beaucoup de plaisir !
-				</p>
+				<p>Bianca enseigne aux personnes de tout âge. Vous pouvez en sa compagnie  suivre des cours de guitare, de clavier/piano, de chant (tout style). Elle excelle également en donnant des cours de  théorie musicale et de solfège.</p>
+				<p>Vous pouvez suivre des cours privés, semi-privés. Des cours de groupe sont disponibles selon la demande. N'hésitez pas à communiquer avec elle pour plus de détails et pour toute question.</p>
+				<p>Bianca croit profondément que chaque personne peut s’exprimer à travers la musique peu importe le niveau de connaissance. Le but ultime est de s’épanouir, d’apprendre et d’avoir beaucoup de plaisir !</p>
 				<h4>
-					Projets:<br />
-					En recherche de collaboration? Que sa soit faire une composition, creation sonore ou besoin d’une d’interprète, <span class="contact_link">communiquez avec moi !</span>
+					Projets !<br />
+					En recherche de collaboration ? Pour une composition, création sonore ou besoin d’une d’interprète ? <span class="contact_link">communiquez avec elle !</span>
 				</h4>
-				<button class="contact_link">Appliquer pour les cours</button>
+				<button class="contact_link">S'inscrire aux cours</button>
 			</div>
  		</session>
  		<span class="flank">

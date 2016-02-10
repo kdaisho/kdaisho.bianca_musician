@@ -129,10 +129,6 @@
 			</session>
 			<div class="bio2 col9 col11_m">
 				<p>Avec tout le respect dû à ses professeurs, il est ici impossible de tous les nommer.</p>
-				<p>Bianca enseigne aux personnes de tout âge. Vous pouvez en sa compagnie suivre des cours de guitare, de clavier/piano, de chant (tout style).</p>
-				<p>Elle excelle également en donnant des cours de  théorie musicale et de solfège.</p>
-				<p>Vous pouvez suivre des cours privés, semi-privés. Des cours de groupe sont disponibles selon la demande. N'hésitez pas à communiquer avec elle pour plus de détails et pour toute question.</p>
-				<p>Bianca croit profondément que chaque personne peut s’exprimer à travers la musique peu importe le niveau de connaissance. Le but ultime est de s’épanouir, d’apprendre et d’avoir beaucoup de plaisir !</p>
 			</div>
 			<?php include 'footer.php'; ?>
 		</div>
